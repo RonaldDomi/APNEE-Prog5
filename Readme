@@ -1,1 +1,7 @@
-first commit
+Pour les test : 
+
+	- si le test dois renvoyer Faux alors ecrire sous forme < "F"test.txt > le nom doit commencer par 'F'
+
+	- si le test dois renvoyer Vrai alors ecrire sous forme < "T"test.txt > le nom doit commencer par 'T'
+
+Les tests doivent etre dans le dossier test. 
